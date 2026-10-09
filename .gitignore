@@ -9,3 +9,5 @@ dist/
 pyarmor.bug.log
 .vscode/
 .idea/
+
+scrip powershell para gener exe.txt
