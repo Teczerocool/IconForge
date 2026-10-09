@@ -1,0 +1,11 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+pyarmor.bug.log
+.vscode/
+.idea/
