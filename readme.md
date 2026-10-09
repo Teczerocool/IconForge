@@ -44,3 +44,6 @@ pip install PySide6 Pillow rembg pillow-heif pillow-avif-plugin pyinstaller pyar
 
 # Ejecutar la aplicación
 python app_conversor.py
+
+## Interfaz del Programa
+![Interfaz de IconForge](UI.jpg)
