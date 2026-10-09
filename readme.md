@@ -12,7 +12,7 @@
 - 🎨 **Compatibilidad Multiformato Profesional:** 
   - **Soporte de Carga:** `PNG`, `JPG`, `WEBP`, `AVIF`, `HEIC / HEIF` (fotografías de iPhone/Android), `SVG` (vectores renderizados en alta resolución), `TIFF`, `BMP`, `ICO`, `ICNS`, `CUR`, `GIF`, `TGA`, `EPS`, `DDS`, `PBM`, `PGM`, `PPM`[cite: 3, 4].
   - **Formatos de Salida:** `PNG`, `ICO`, `WEBP`, `AVIF`, `JPG`, `PDF`, `ICNS` (macOS), `TIFF`, `BMP`, `TGA`[cite: 3, 4].
-- 🌓 **Tema Adaptativo Dinámico:** Detecta automáticamente el modo claro u oscuro de tu sistema operativo (Windows/macOS/Linux), adaptando la paleta de colores de la interfaz y recoloreando los íconos para mantener máxima legibilidad[cite: 3, 4].
+- 🌓 **Tema Adaptativo Dinámico:** Detecta automáticamente el modo claro u oscuro de tu sistema operativo (Windows), adaptando la paleta de colores de la interfaz y recoloreando los íconos para mantener máxima legibilidad[cite: 3, 4].
 - 📐 **Presets para Desarrolladores (DEV):** Dimensiones rápidas prediseñadas para:[cite: 3, 4]
   - Favicon Web (16x16 / 32x32)[cite: 3, 4]
   - Ícono de Escritorio / App (64x64 / 256x256)[cite: 3, 4]
